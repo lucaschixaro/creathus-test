@@ -1,0 +1,11 @@
+{
+  "name": "creathus",
+  "version": "1.0.0",
+  "description": "Prova Tecnica Creathus",
+  "main": "index.js",
+  "author": "Lucas Chixaro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
